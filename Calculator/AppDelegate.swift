@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Calculator
-//
-//  Created by Test on 22.02.23.
-//
-
 import UIKit
 
 @main
